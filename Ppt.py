@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # Title and Description
-st.title("🤖 AutoPPT Pro - AI Presentation Generator")
+st.title("🤖 SlideGenius AI – Intelligent Presentation Generation Platform")
 st.markdown("""
 Generate professional PowerPoint presentations automatically using Generative AI. 
 Upload your data or describe your topic, and let AI create a complete presentation for you.
